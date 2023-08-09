@@ -1,1 +1,0 @@
-## Vrite test base directory
