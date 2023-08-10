@@ -8,8 +8,7 @@ In case you enjoy using Vrite Editor, you might be interested in a larger projec
 
 Beyond just the Vrite Editor, you get additional features, like:
 
--
-Kanban dashboard for content management;
+- Kanban dashboard for content management;
 - API and Webhooks;
 - Extension system for easy publishing to popular platforms;
 - Real-time collaboration;
