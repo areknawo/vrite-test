@@ -5,9 +5,7 @@ No good tool is built without using good tools, and Vrite Editor is no different
 Aside from that, I used:
 
 - [Solid.js](https://solidjs.com/) — the super-fast UI framework;
-
 - [UnoCSS](https://unocss.dev/) — for styling with Tailwind-like atomic CSS;
-
 - [Vite](https://vitejs.dev/) — build tool for putting it all together;
 
 The results came out pretty nicely! 🌟
