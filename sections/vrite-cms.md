@@ -1,4 +1,4 @@
-## Vrite CMS
+## Vrite Platfrom
 
 In case you enjoy using Vrite Editor, you might be interested in a larger project that it’s a part of — “Vrite CMS”, or simply “Vrite”.
 
