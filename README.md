@@ -1,7 +1,6 @@
 ---
 slug: readme-md
 title: README.md
-
 ---
 
 # Vrite Editor: Open-Source WYSIWYG Markdown Editor
@@ -13,5 +12,5 @@ Here’s “Why?”, “How?”, and other questions answered!
 Testing
 
 <Note>
-[object Promise]
+Be sure to read the `index.md` files first.
 </Note>
