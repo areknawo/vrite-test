@@ -1,8 +1,8 @@
 ---
 slug: "test-md"
-title: "Hello World"
+title: "Witaj świecie"
 ---
 
-# Hello World!
+# Witaj świecie!
 
-Hello World.
+Witaj świecie…
