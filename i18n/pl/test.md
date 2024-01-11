@@ -1,7 +1,8 @@
 ---
-title: "Witaj świecie"
+slug: "test-md"
+title: "Hello World"
 ---
 
-# Witaj świecie!
+# Hello World!
 
-Witaj świecie!
+Hello World.
