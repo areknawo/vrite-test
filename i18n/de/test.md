@@ -1,3 +1,0 @@
-# Halo Walt
-
-Halo Walt…
